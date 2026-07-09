@@ -70,6 +70,13 @@ git commit -m "커밋 메시지"
 git push origin workshop
 ```
 
+## 업스트림 등록하기
+
+```
+git remote add upstream https://github.com/SUSC-KR/opensource-study.git
+```
+
+
 ## 최신 업스트림 main 가져오기
 
 ```
